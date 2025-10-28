@@ -35,7 +35,7 @@ dialog {
 
     border-width: 0px;
     border-radius: 0.75rem;
-    box-shadow: -7px 12px 14px 6px rgba(37, 37, 37, 0.2);
+    box-shadow: -7px 12px 14px 6px rgba(58, 58, 58, 0.2);
 
     & article {
       background-color: unset;
